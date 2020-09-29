@@ -20,7 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://madhavbahl.tech/"><img src="https://avatars2.githubusercontent.com/u/26179770?v=4" width="100px;" alt=""/><br /><sub><b>MADHAV BAHL</b></sub></a><br /><a href="https://github.com/MadhavBahlMD/my-open-profile/commits?author=MadhavBahlMD" title="Code">💻</a> <a href="#ideas-MadhavBahlMD" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://madhavbahl.tech/"><img src="https://avatars2.githubusercontent.com/u/26179770?v=4" width="100px;" alt=""/><br /><sub><b>MADHAV BAHL</b></sub></a><br /><a href="https://github.com/MadhavBahlMD/my-open-profile/commits?author=MadhavBahlMD" title="Code">💻</a> <a href="#ideas-MadhavBahlMD" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/MadhavBahlMD/my-open-profile/issues?q=author%3AMadhavBahlMD" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
