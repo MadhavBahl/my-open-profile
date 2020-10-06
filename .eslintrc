@@ -35,6 +35,11 @@
             {
                 "endOfLine": "auto"
             }
-        ]
+        ],
+        "no-console": "off",
+        "no-use-before-define": "off",
+        "@typescript-eslint/no-use-before-define": "off",
+        "no-loop-func": "off",
+        "@typescript-eslint/no-loop-func": "off"
     }
 }
