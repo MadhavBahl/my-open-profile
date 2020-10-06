@@ -7,6 +7,6 @@ const App = (): JSX.Element => {
 			<h1>My Open Profile</h1>
 		</div>
 	);
-}
+};
 
 export default App;
