@@ -1,24 +1,24 @@
-# Related Issue
+## Related Issue
 - Link for the issue
 
-# Proposed Changes
+## Proposed Changes
 - Change 1
 - Change 2
 - Change 3
 
-# Additional Info
+## Additional Info
 - Additional content or any information
 
-# Checklist
+## Checklist
 - [ ] Tested the code
 - [ ] Formatted the code using `npm run format`
 - [ ] Linted the code using `npm run lint`
 - [ ] Updated `README.md`
 
-# Screenshots
+## Screenshots
 
-## Original
+### Original
 ** Original Screenshot **
 
-## Updated
+### Updated
 ** Updated Screenshot **
