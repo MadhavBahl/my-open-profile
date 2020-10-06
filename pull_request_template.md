@@ -1,6 +1,5 @@
 # Related Issue
 - Link for the issue
-- Description of the issue
 
 # Proposed Changes
 - Change 1
@@ -11,12 +10,15 @@
 - Additional content or any information
 
 # Checklist
-- [ ] Have you tested your code?
-- [ ] Does it follow style guides?
-- [ ] Does it also include translations?
-- [ ] Does it include any updates in the documentation?
+- [ ] Tested the code
+- [ ] Formatted the code using `npm run format`
+- [ ] Linted the code using `npm run lint`
+- [ ] Updated `README.md`
 
 # Screenshots
-Original          | Updated
-:------------------------:|:------------------------:
-** Original Screenshot ** | ** Updated Screenshot **
+
+## Original
+** Original Screenshot **
+
+## Updated
+** Updated Screenshot **
