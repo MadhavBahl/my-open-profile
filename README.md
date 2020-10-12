@@ -7,3 +7,5 @@ This hacktoberfest, showcase your open source projects and invite people to cont
 More details will be added soon.
 
 Do ⭐ this repo.
+
+- See [Contributing Guidelines](https://github.com/MadhavBahlMD/my-open-profile/blob/master/CONTRIBUTING.md) for great contribution.
