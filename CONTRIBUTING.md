@@ -16,7 +16,7 @@ The steps to make your first contribution to this project are as follows :
 5. Make sure your code lints.
 6. Issue that pull request!
 
-### Code of Conduct
+## Code of Conduct
 #### Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
