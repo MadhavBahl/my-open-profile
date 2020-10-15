@@ -3,8 +3,11 @@
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 
-### We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-- Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
+## Workflow
+
+Our project uses the [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
+
+The steps to make your first contribution to this project are as follows :
 
 1. Fork the repo and create your branch from master.
 2. If you've added code that should be tested, add tests.
