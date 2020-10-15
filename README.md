@@ -9,7 +9,7 @@ More details will be added soon.
 Do ⭐ this repo.
 
 ## Contributing
-- Refer to the  [Contributing Guidelines] document (https://github.com/MadhavBahlMD/my-open-profile/blob/master/CONTRIBUTING.md) for tips to make a great contribution.
+- Refer to the  [Contributing Guidelines Document](https://github.com/MadhavBahlMD/my-open-profile/blob/master/CONTRIBUTING.md) for tips to make a contribution.
 
 ## Design
 
