@@ -8,6 +8,9 @@ More details will be added soon.
 
 Do ⭐ this repo.
 
+## Contributing
+- Refer to the  [Contributing Guidelines Document](https://github.com/MadhavBahlMD/my-open-profile/blob/master/CONTRIBUTING.md) for tips to make a contribution.
+
 ## Design
 
 I have added a rough wireframe in `/designs/` folder
