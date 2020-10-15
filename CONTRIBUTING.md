@@ -2,8 +2,6 @@
 
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-### We Develop with Github
-We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
 ### We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
 - Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
